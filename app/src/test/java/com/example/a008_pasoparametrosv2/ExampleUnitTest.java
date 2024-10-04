@@ -1,4 +1,4 @@
-package com.example.a007_pasoparametros;
+package com.example.a008_pasoparametrosv2;
 
 import org.junit.Test;
 
